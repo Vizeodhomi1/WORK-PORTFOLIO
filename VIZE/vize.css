@@ -1,0 +1,77 @@
+.body{
+	font-family: initial;
+	padding: 10px;
+	margin: 10px;
+	background-color: lightgoldenrodyellow;
+	font-family: revert;
+}
+
+.navbarNav {
+	width: 100%;
+}
+
+.container-fluid{
+	align-items: center;
+	margin: 0.5px;
+	position: relative;
+	width: 100%;
+	background-color: lightbrown;
+	margin-right: x;
+}
+.hero-content {
+	font-size: 70;
+	padding: 10;
+	text-align: center;
+	font-family: monospace ;
+	background-color: lightseagreen;
+	background-size: cover;
+}
+
+.aboutme {
+	text-align: center;
+	
+}
+
+.skills {
+	text-align: center;
+}
+
+.card-header1 {
+	size: 300px;
+	width: 250px;
+}
+
+.projects {
+	text-align: center;
+}
+
+}
+.imagecol{
+	box-align: initial;
+} 
+
+.cardh{
+	padding: 10;
+	margin: 10;
+}
+
+.hero {
+	border: thick;
+	padding: 10;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    background:(./images/welcome-banner.jpg)no-repeat;
+    background-size: cover;
+    background-position: center;
+    height:510px;
+    background-color:;
+    background-image: url(images.jpeg);
+}
+
+
+.contactco {
+	text-align: center;
+	font-size: 30;
+}
